@@ -9,3 +9,4 @@ Current struggles
 - formatting on a phone 
 - numbers and bullets still lining up on the left
 - linking the topics back to the menu edits the URL and means you can't refresh
+- edit size of image based off screen size image
