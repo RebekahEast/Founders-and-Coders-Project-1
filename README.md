@@ -8,3 +8,4 @@ Current struggles
 - today's date
 - formatting on a phone 
 - numbers and bullets still lining up on the left
+- linking the topics back to the menu
