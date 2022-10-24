@@ -12,6 +12,10 @@ img {
     height: auto;
   }
 
+  ul {
+    list-style-image: url('picture/BP-leaf.png');
+  }
+
 .header {
     padding: 60px;
     text-align: center;
