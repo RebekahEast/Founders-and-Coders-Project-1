@@ -22,9 +22,8 @@ img {
 
 ul {
     list-style-type: square;
-    list-style-image: none;
-    list-style-position: inside;
-    text-align: center;
+    list-style-position: !important inside;
+    text-align: !important center;
     display:inline;
   }
     
