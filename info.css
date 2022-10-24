@@ -12,7 +12,7 @@
     text-align: center;
     background: rgba(255, 219, 233, 255);
     color: rgb(10, 55, 21);
-    font-family: cursive;
+    font-family:cursive;
 }
     
 .body {
@@ -27,6 +27,12 @@
     background-attachment: fixed;
     background-size: cover;
 }
+
+ol, ul {
+	list-style: none;
+    text-align:center;
+}
+
 .footer {
    position: fixed;
    left: 0;
