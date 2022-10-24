@@ -8,6 +8,7 @@
     text-align: center;
     background: rgba(255, 219, 233, 255);
     color: rgb(10, 55, 21);
+    font-family: cursive;
 }
 body {
     border: 5px solid rgba(255, 219, 233, 255);
@@ -30,3 +31,6 @@ body {
    color: rgb(10, 55, 21);
    text-align: center;
 }
+
+
+<!--for css: font, page break, colour, fit the page, styling table, margins (https://www.w3schools.com/css/tryit.asp?filename=trycss_margin_sides)-->
