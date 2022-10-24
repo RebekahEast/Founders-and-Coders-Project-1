@@ -24,6 +24,8 @@ ul {
     list-style-type: square;
     list-style-position: outside;
     list-style-image: none;
+    text-align: center;
+    display:inline;
   }
     
 .body {
