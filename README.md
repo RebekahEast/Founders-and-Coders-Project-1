@@ -2,11 +2,17 @@
 Hobby Page
 
 
-Current struggles 
+Thing's I am still working on
 - why wont LinkedIn open on a new page 
-- using CSS
+    * I'm already using target blank?
+
+
 - today's date
-- formatting on a phone 
+
+- formatting the background on a phone
+    * Currently using bakcground-size:auto. Also tried contain
+    
 - numbers and bullets still lining up on the left
+
+
 - linking the topics back to the menu edits the URL and means you can't refresh
-- edit size of image based off screen size image
