@@ -1,12 +1,16 @@
 * {
     font-family: sans-serif;
     color: darkgreen;
-    font-size: 5vw; 
 }
 
 [href]{
     color:black;
 }
+
+img {
+    width: 100%;
+    height: auto;
+  }
 
 .header {
     padding: 60px;
@@ -43,6 +47,3 @@ ol, ul {
    color: rgb(10, 55, 21);
    text-align: center;
 }
-
-
-<!--for css: font, page break, colour, fit the page, styling table, margins (https://www.w3schools.com/css/tryit.asp?filename=trycss_margin_sides)-->
