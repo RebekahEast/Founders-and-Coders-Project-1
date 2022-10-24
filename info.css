@@ -7,11 +7,6 @@
     color:black;
 }
 
-img {
-    width: auto;
-    height: 100%;
-  }
-
 .header {
     padding: 60px;
     text-align: center;
@@ -47,3 +42,6 @@ ol, ul {
    color: rgb(10, 55, 21);
    text-align: center;
 }
+
+
+<!--for css: font, page break, colour, fit the page, styling table, margins (https://www.w3schools.com/css/tryit.asp?filename=trycss_margin_sides)-->
