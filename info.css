@@ -19,6 +19,12 @@ img {
     color: rgb(10, 55, 21);
     font-family:cursive;
 }
+
+ul {
+    list-style-type: square;
+    list-style-position: outside;
+    list-style-image: none;
+  }
     
 .body {
     border: 5px solid rgba(255, 219, 233, 255);
