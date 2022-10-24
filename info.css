@@ -30,12 +30,7 @@ img {
     background-image: url('picture/repeated-background-fortmatted.jpg');
     background-repeat: repeat;
     background-attachment: fixed;
-    background-size: contain;
-}
-
-ol, ul {
-	list-style: none;
-    text-align:center;
+    background-size: auto;
 }
 
 .footer {
