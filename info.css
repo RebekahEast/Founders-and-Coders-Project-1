@@ -24,20 +24,16 @@ img {
     list-style-type: square;
     list-style-position: inside;
     text-align: center;
-    display:inline;
-    width: 400px; 
-	margin-left: auto; 
-	margin-right: auto; 
+    display:inline-block;
+    padding: 12px 0 4px 20px;
+    text-indent: -1em;
   }
 
 .ol {
     list-style-type: square;
     list-style-position: inside;
     text-align: center;
-    display:inline;
-    width: 400px; 
-	margin-left: auto; 
-	margin-right: auto; 
+    display:inline-block;
   }
     
 .body {
