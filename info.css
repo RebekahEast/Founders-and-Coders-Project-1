@@ -25,6 +25,9 @@ img {
     list-style-position: inside;
     text-align: center;
     display:inline;
+    width: 400px; 
+	margin-left: auto; 
+	margin-right: auto; 
   }
 
 .ol {
@@ -32,6 +35,9 @@ img {
     list-style-position: inside;
     text-align: center;
     display:inline;
+    width: 400px; 
+	margin-left: auto; 
+	margin-right: auto; 
   }
     
 .body {
