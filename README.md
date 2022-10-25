@@ -1,18 +1,13 @@
 # Founders-and-Coders-Project-1
-Hobby Page
+<h2>Hobby Page</h2>
+Hello! I've been working on my hobby page. Below are some of the things I would look to improve as my learning and development continues.
 
 
-Thing's I am still working on
-- why wont LinkedIn open on a new page 
-    * I'm already using target blank?
 
+<h4>Thing's I am still working on</h4>
+- LinkedIn won't open on a new page (<em>I'm already using target blank?</em>)
 
-- today's date
-
-- formatting the background on a phone
-    * Currently using bakcground-size:auto. Also tried contain
+- today's date (Java)
     
 - numbers and bullets still lining up on the left
-
-
-- linking the topics back to the menu edits the URL and means you can't refresh
+   * need to use a pseudo-class I think
