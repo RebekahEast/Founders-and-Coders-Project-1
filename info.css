@@ -7,6 +7,10 @@
     color:black;
 }
 
+a:hover {
+    color: rgb(40, 136, 67);
+  }
+
 img {
     max-width: 100%;
     height: auto;
