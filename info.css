@@ -53,6 +53,10 @@ img {
     background-size: auto;
 }
 
+.heading-background {
+    background-color: rgb(127, 229, 180);
+  }
+
 .footer {
    position: fixed;
    left: 0;
