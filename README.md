@@ -9,6 +9,10 @@
 
 <p align = "center"><img src="picture/divide.png" width="600"></p>
 
+<h3 align = "center"><b>Key Learnings</h3></b>
+<p align = "center">This project was fantastic! It allowed me to test out so many different HTML and CSS techniques that I hadn't used before/only learnt about. It was great to put them into practical knowledge</p>
+
+<p align = "center">This project was also very useful for understanding Guthub (as I hadn't used it before!)</p><br>
 
 <h3 align = "center"><b>Thing's I'd love to improve on</h3></b>
 <p align = "center">1. LinkedIn won't open on a new page (<em>I'm already using target blank?</em>)<br>
