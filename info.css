@@ -1,50 +1,48 @@
 @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300&display=swap');
 
 * {
-    font-family: unbounded;
-    color: darkgreen;
-    line-height: 200%;
-    letter-spacing: 0.1em;
+  font-family: unbounded;
+  color: darkgreen;
+  line-height: 200%;
+  letter-spacing: 0.1em;
+  text-align: center;
 }
 
 [href]{
-    color:black;
+  color:black;
 }
 
 a:hover {
-    color: rgb(40, 136, 67);
+  color: rgb(40, 136, 67);
   }
 
 img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 5%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 5%;
   }
 
 .header {
-    padding: 60px;
-    text-align: center;
-    background: rgba(255, 219, 233, 255);
-    color: rgb(10, 55, 21);
-    font-family:cursive;
+  padding: 60px;
+  background: rgba(255, 219, 233, 255);
+  color: rgb(10, 55, 21);
+  font-family:cursive;
+}
+
+.li {
+  text-align:center; 
 }
 
 .ul {
-    list-style-type: square;
-    list-style-position: inside;
-    text-align: center;
-    display:inline-block;
-    padding: 12px 0 4px 20px;
-    text-indent: -1em;
-    margin-left: 45%;
+  display:inline-block;
+  padding: 12px 0 4px 20px;
+  text-indent: -1em;
+  margin-left: 45%;
   }
 
 .ol {
-    list-style-type: square;
-    list-style-position: inside;
-    text-align: center;
-    display:inline-block;
-    margin-left: 45%;
+  text-align: center;
+  display:inline-block;
   }
     
 .body {
@@ -71,14 +69,12 @@ img {
   font-size: 12px;
 }
 
-
-
 .footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: rgba(237, 228, 228, 0.5);
-   color: rgb(10, 55, 21);
-   text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(237, 228, 228, 0.5);
+  color: rgb(10, 55, 21);
+  text-align: center;
 }
