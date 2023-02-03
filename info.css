@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300&display=swap');
+
 * {
-    font-family: sans-serif;
+    font-family: unbounded;
     color: darkgreen;
+    line-height: 200%;
+    letter-spacing: 0.1em;
 }
 
 [href]{
@@ -14,6 +18,7 @@ a:hover {
 img {
     max-width: 100%;
     height: auto;
+    border-radius: 5%;
   }
 
 .header {
@@ -31,6 +36,7 @@ img {
     display:inline-block;
     padding: 12px 0 4px 20px;
     text-indent: -1em;
+    margin-left: 45%;
   }
 
 .ol {
@@ -38,19 +44,31 @@ img {
     list-style-position: inside;
     text-align: center;
     display:inline-block;
+    margin-left: 45%;
   }
     
 .body {
-    border: 5px solid rgba(255, 219, 233, 255);
-    margin-top: 100px;
-    margin-bottom:100px;
-    margin-right: 10%;
-    margin-left: 10%;
-    background-color: pink;
-    background-image: url('picture/repeated-background-fortmatted.jpg');
-    background-repeat: repeat;
-    background-attachment: fixed;
-    background-size: auto;
+  border: 5px solid rgba(255, 219, 233, 255);
+  margin: 10% 10% 10% 10%;
+  background-color: pink;
+  background-image: url('picture/repeated-background-fortmatted.jpg');
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-size: auto;
+}
+
+#plants th{
+  background-color: grey;
+  color: white;
+  text-align: center;  
+  font-size: 12px;
+  padding: 10px 10px 10px 10px;
+}
+
+#plants tr{
+  background-color: white;
+  text-align: center;
+  font-size: 12px;
 }
 
 
@@ -60,7 +78,7 @@ img {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: rgba(237, 228, 228, 0.354);
+   background-color: rgba(237, 228, 228, 0.5);
    color: rgb(10, 55, 21);
    text-align: center;
 }
