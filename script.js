@@ -1,12 +1,4 @@
-const currentDate = new Date();
-
-const currentDayOfMonth = currentDate.getDate();
-
-const currentMonth = currentDate.getMonth(); 
-
-const currentYear = currentDate.getFullYear();
-
-const dateString = currentDayOfMonth + " - " + (currentMonth + 1) + " - " + currentYear;
-// + 1 because Jan is not 0
-
-document.getElementById("date").innerHTML = dateString;
+// 1. Use querySelector to assign an HTML element to a variable
+// 2. Create an HTML element in JavaScript
+// 3. Append a Date()to an element existing in JavaScript
+// 4. Append a new element to an existing HTML element

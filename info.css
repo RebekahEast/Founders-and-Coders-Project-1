@@ -29,18 +29,12 @@ img {
   font-family:cursive;
 }
 
-.li {
-  text-align:center; 
-}
-
-.ul {
+ul {
   display:inline-block;
-  padding: 12px 0 4px 20px;
-  text-indent: -1em;
-  margin-left: 45%;
+  text-align: center;
   }
 
-.ol {
+ol {
   text-align: center;
   display:inline-block;
   }
