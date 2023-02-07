@@ -15,7 +15,7 @@
 <p align = "center">This project was also very useful for understanding Guthub (as I hadn't used it before!)</p><br>
 
 <h3 align = "center"><b>Thing's I'd love to improve on</h3></b>
-<p align = "center">1. LinkedIn won't open on a new page (<em>I'm already using target blank?</em>)<br>
+<p align = "center"><del> 1. LinkedIn won't open on a new page (<em>I'm already using target blank?</em>)</del> <br>
 2. numbers and bullets still lining up on the left - need to use a pseudo-class I think?<br>
 3. I would like to have the date and time keep ticking once the page is loaded</p>
 
