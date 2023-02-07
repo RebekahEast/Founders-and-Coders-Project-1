@@ -16,6 +16,5 @@
 
 <h3 align = "center"><b>Thing's I'd love to improve on</h3></b>
 <p align = "center"><del> 1. LinkedIn won't open on a new page (<em>I'm already using target blank?</em>)</del> I met with a mentor at Founders & Coders who showed me the target blank needs to be next to the link and not next to the img src. <br>
-2. numbers and bullets still lining up on the left - need to use a pseudo-class I think?<br>
-3. I would like to have the date and time keep ticking once the page is loaded</p>
+2. I would like to have the date and time keep ticking once the page is loaded</p>
 
