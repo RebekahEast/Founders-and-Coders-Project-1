@@ -18,3 +18,6 @@
 <p align = "center"><del> 1. LinkedIn won't open on a new page (<em>I'm already using target blank?</em>)</del> I met with a mentor at Founders & Coders who showed me the target blank needs to be next to the link and not next to the img src. <br>
 2. I would like to have the date and time keep ticking once the page is loaded</p>
 
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
