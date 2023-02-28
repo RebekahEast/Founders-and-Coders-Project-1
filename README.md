@@ -19,5 +19,6 @@
 2. I would like to have the date and time keep ticking once the page is loaded</p>
 
 
-[My Hobby Page](https://rebekaheast.github.io/Hobby-Page/ "Plant Care Page" align = "center")
-
+< div align = "center">
+[My Hobby Page](https://rebekaheast.github.io/Hobby-Page/ "Plant Care Page")
+</div>
